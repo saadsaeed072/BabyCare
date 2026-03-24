@@ -184,18 +184,6 @@ babycare/
 - Subscription plans
 - Insurance options
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Support
 
-For support, email support@babycare.pk or call 0300-1234567.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-password tvv510b71z
-Merchant MC651547
-salt w3tvuuve00
+For support, email saadsaeed072@gmail.com or call 0322-9970667.
